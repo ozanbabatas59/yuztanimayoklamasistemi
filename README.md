@@ -1,3 +1,10 @@
+İlk kurulumda
+pip uninstall opencv-python
+pip install opencv-python-headless
+pip uninstall opencv-python-headless
+pip install opencv-python
+pip install onnxruntime insightface
+
 # yuztanimayoklamasistemi
 insightface ile canlılık kontrolü ve göz açık olup olmadığını kontrolü yaparak yoklama sistemi
 
